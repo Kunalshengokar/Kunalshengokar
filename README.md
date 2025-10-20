@@ -1,25 +1,62 @@
-<h1 align="center">Hi 👋, I'm Kunal Gokul shengokar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- 🌌 Kunal Shengokar - Dark Neon Profile README 🌌 -->
 
-- 🔭 complete my first Html,Css,Js project **Spotify-web music player**
-  
-- **Started Another project**
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey+there+👋;I'm+Kunal+Gokul+Shengokar;Frontend+Developer+%F0%9F%9A%80;Tech+Enthusiast+%F0%9F%92%BB;Music+Lover+%F0%9F%8E%A7" alt="Typing Animation">
+</h1>
 
-- 🌱 I’m currently learning **C,C++,**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kunalshengokar](https://github.com/Kunalshengokar)
+### 🌌 About Me
 
-- 📫 How to reach me **kunalshengokar@gmail.com**
+💡 Passionate about crafting **interactive** and **modern** user interfaces.  
+🎧 Built my first project — **Spotify Web Music Player** using **HTML, CSS, and JS**.  
+💻 Currently mastering **C & C++**, and diving deep into **DSA**.  
+🚀 Dreaming of becoming a **Full Stack Developer**.  
+⚡ Fun Fact: *I debug faster when the bass drops 🎶.*
 
-- 📄 Know about my experiences - **I'm second Year student**
+---
 
-- ⚡ Fun fact **I think I'm Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/@kuna.ls07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@kuna.ls07" height="30" width="40" /></a>
+### 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:kunalshengokar@gmail.com"><img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black" alt="email"/></a>
+  <a href="https://instagram.com/kuna.ls07" target="blank"><img src="https://img.shields.io/badge/Instagram-FF00FF?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
+  <a href="https://github.com/Kunalshengokar" target="blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFFF" alt="github"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+---
 
+### ⚙️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,vscode,github&theme=dark" />
+</p>
+
+---
+
+### 🔥 GitHub Streak & Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunalshengokar&theme=neon-dark&hide_border=true" alt="streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kunalshengokar&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunalshengokar&layout=compact&theme=radical&hide_border=true" height="165" />
+</p>
+
+---
+
+### 🧠 A Little More About Me
+🎓 **2nd-year engineering student** with a passion for web development and UI design.  
+🎨 I love experimenting with new color schemes and creative layouts.  
+🤝 Always open to **collaboration**, ideas, and learning from others.  
+🪩 Motto: *"Keep coding. Keep glowing."*
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunalshengokar&bg_color=0d1117&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+---
+
+<h3 align="center">⭐ “Code is like art — make it glow.” ⭐</h3>
+
+---
