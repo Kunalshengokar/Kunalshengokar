@@ -1,62 +1,79 @@
-<!-- 🌌 Kunal Shengokar - Dark Neon Profile README 🌌 -->
+<!-- 🌙 Kunal Shengokar - Dark Aesthetic Profile 🌙 -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey+there+👋;I'm+Kunal+Gokul+Shengokar;Frontend+Developer+%F0%9F%9A%80;Tech+Enthusiast+%F0%9F%92%BB;Music+Lover+%F0%9F%8E%A7" alt="Typing Animation">
-</h1>
+<div align="center">
 
----
+# Hey there 👋
 
-### 🌌 About Me
+### I'm **Kunal Gokul Shengokar**
+### Full Stack Developer in the Making
 
-💡 Passionate about crafting **interactive** and **modern** user interfaces.  
-🎧 Built my first project — **Spotify Web Music Player** using **HTML, CSS, and JS**.  
-💻 Currently mastering **C & C++**, and diving deep into **DSA**.  
-🚀 Dreaming of becoming a **Full Stack Developer**.  
-⚡ Fun Fact: *I debug faster when the bass drops 🎶.*
+</div>
 
 ---
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="mailto:kunalshengokar@gmail.com"><img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black" alt="email"/></a>
-  <a href="https://instagram.com/kuna.ls07" target="blank"><img src="https://img.shields.io/badge/Instagram-FF00FF?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
-  <a href="https://github.com/Kunalshengokar" target="blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFFF" alt="github"/></a>
-</p>
+## 🌌 About Me
+
+- 💡 Passionate about crafting **interactive** and **modern** user interfaces
+- 🎧 Built my first project — **Spotify Web Music Player** using **HTML, CSS, and JS**
+- 💻 Currently mastering **C & C++**, and diving deep into **DSA**
+- 🚀 Dreaming of becoming a **Full Stack Developer**
+- ⚡ Fun Fact: *I debug faster when the bass drops 🎶*
 
 ---
 
-### ⚙️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,vscode,github&theme=dark" />
-</p>
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kunalshengokar@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/kuna.ls07)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kunalshengokar)
+
+</div>
 
 ---
 
-### 🔥 GitHub Streak & Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunalshengokar&theme=neon-dark&hide_border=true" alt="streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kunalshengokar&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunalshengokar&layout=compact&theme=radical&hide_border=true" height="165" />
-</p>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-### 🧠 A Little More About Me
-🎓 **2nd-year engineering student** with a passion for web development and UI design.  
-🎨 I love experimenting with new color schemes and creative layouts.  
-🤝 Always open to **collaboration**, ideas, and learning from others.  
-🪩 Motto: *"Keep coding. Keep glowing."*
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kunalshengokar&theme=dark&hide_border=true)](https://github.com/Kunalshengokar)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunalshengokar&layout=compact&theme=dark&hide_border=true)](https://github.com/Kunalshengokar)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunalshengokar&bg_color=0d1117&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=true" alt="activity graph" />
-</p>
+## 👨‍💼 About Me
+
+- 🎓 **2nd-year engineering student** with a passion for web development and UI design
+- 🎨 I love experimenting with clean designs and minimalist layouts
+- 🤝 Always open to **collaboration**, ideas, and learning from others
+- 💭 Motto: *"Clean code. Keep growing."*
 
 ---
 
-<h3 align="center">⭐ “Code is like art — make it glow.” ⭐</h3>
+<div align="center">
+
+### ⭐ "Code is like art — make it meaningful." ⭐
+
+</div>
 
 ---
