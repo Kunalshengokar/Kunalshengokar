@@ -2,10 +2,7 @@
 
 <div align="center">
 
-# Hey there 👋
-
-### I'm **Kunal Gokul Shengokar**
-### Full Stack Developer in the Making
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey+there+👋;I'm+Kunal+Gokul+Shengokar;Full+Stack+Developer" />
 
 </div>
 
@@ -67,6 +64,14 @@
 - 🎨 I love experimenting with clean designs and minimalist layouts
 - 🤝 Always open to **collaboration**, ideas, and learning from others
 - 💭 Motto: *"Clean code. Keep growing."*
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunalshengokar&bg_color=0d1117&color=00FFFF&line=1f6feb&point=ffffff&area=true&hide_border=true" alt="activity graph" />
+
+</div>
 
 ---
 
