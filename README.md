@@ -60,7 +60,7 @@
 
 ## 👨‍💼 About Me
 
-- 🎓 **2nd-year engineering student** with a passion for web development and UI design
+- 🎓 **3rd-year engineering student** with a passion for web development and UI design
 - 🎨 I love experimenting with clean designs and minimalist layouts
 - 🤝 Always open to **collaboration**, ideas, and learning from others
 - 💭 Motto: *"Clean code. Keep growing."*
